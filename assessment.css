@@ -43,3 +43,6 @@ img {
   background-repeat: no-repeat;
   background-size: contain;
 }
+ol>li:first-child {
+  font-weight: bold;
+}
